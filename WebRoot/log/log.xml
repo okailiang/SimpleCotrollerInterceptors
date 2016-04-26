@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+  <action>
+    <name>login</name>
+    <s-time>2015-12-12 05:02:01:445</s-time>
+    <e-time>2015-12-12 05:02:01:459</e-time>
+    <result>success</result>
+  </action>
+  <action>
+    <name>login</name>
+    <s-time>2015-12-12 05:02:14:301</s-time>
+    <e-time>2015-12-12 05:02:14:372</e-time>
+    <result>fail</result>
+  </action>
+</log>
+
